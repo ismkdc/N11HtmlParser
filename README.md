@@ -3,7 +3,7 @@ This api have 2 method
 
 ## 1-)GetProducts by category url.
 
-Usage: ``` http://localhost:60885/api/getproducts?url={categoryurl} ```
+Usage: ``` http://localhost:60885/api/getproducts?url={categoryurl}&page={page} ```
 
 Example: ``` http://localhost:60885/api/getproducts?url=https://www.n11.com/bilgisayar/dizustu-bilgisayar&page=1 ```
 
